@@ -1,10 +1,20 @@
-# WASP-127 b — Real TESS Transit Report
+# WASP-127 b: An Extreme Super-Puff Giant
 
+<!-- TARGET-IDENTITY-START -->
+<p align="center">
+  <img src="assets/artist_concept.webp" alt="Artist's interpretation of WASP-127 b near its host star" width="900">
+</p>
+
+<p align="center"><em>AI-generated artist's interpretation informed by the measured system properties; not a direct image.</em></p>
+
+**Super-puff giant · low gravity · TESS photometry**
+
+An extraordinarily low-density giant with an extended atmosphere, used here to test how a timing-aware transit fit behaves for a very puffy planet.
+<!-- TARGET-IDENTITY-END -->
 <p align="center">
   <img src="figures/wasp127b_tess_transit.png" alt="Phase-folded real TESS transit light curve of WASP-127 b" width="760">
 </p>
 
-One real public TESS SPOC light curve; one historical NASA Exoplanet Archive ephemeris; one timing-adjusted, limb-darkened transit fit.
 
 **[Open the full report](https://biswajit1999.github.io/wasp-127b-exoplanet-report/)** — the live GitHub Pages version.
 

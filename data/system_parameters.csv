@@ -1,0 +1,2 @@
+pl_name,hostname,ra,dec,pl_orbper,pl_tranmid,pl_trandur,pl_rade,pl_bmasse,pl_eqt,pl_orbsmax,sy_dist,sy_tmag,st_teff,st_rad,st_mass,disc_year,discoverymethod,disc_refname,disc_pubdate,disc_facility
+WASP-127 b,WASP-127,160.5587646,-3.8349989,4.17806203,2456776.62124,4.35288,14.694999,52.346601,1400.0,0.0484,159.507,9.62959,5620.0,1.333,0.95,2016,Transit,<a refstr=LAM_ET_AL__2017 href=https://ui.adsabs.harvard.edu/abs/2017A&A...599A...3L/abstract target=ref>Lam et al. 2017</a>,2017-03,SuperWASP
